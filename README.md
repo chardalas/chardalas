@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chardalas
 - 👀 I’m interested in concurrency and compilers 
-- 🌱 I’m currently learning async, docker, kafka
+- 🌱 I’m currently learning async, docker and kafka
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me emmhard@gmail.com
 
