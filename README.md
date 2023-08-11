@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning async, docker and kafka
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me emmhard@gmail.com
-### :fire: My Stats :
+### :fire: My Stats : https://github-readme-streak-stats.herokuapp.com/?user=chardalas
 <!---
 chardalas/chardalas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
