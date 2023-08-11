@@ -4,11 +4,14 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me emmhard@gmail.com
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chardalas)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chardalas&layout=compact&theme=transparent)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chardalas)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <!---
 chardalas/chardalas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
