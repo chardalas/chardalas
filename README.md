@@ -1,6 +1,11 @@
 <div id="header" align="center">
   <img src="https://giphy.com/embed/WSBeyxvC1jH496xQGA" width="100"/>
 </div>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
+</div>
+
 - 👋 Hi, I’m @chardalas
 - 👀 I’m interested in concurrency and compilers 
 - 🌱 I’m currently learning async, docker and kafka
